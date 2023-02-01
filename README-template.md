@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-[./Screenshot 2023-02-01 at 08-19-33 Frontend Mentor Social proof section.png]
+[../Screenshot 2023-02-01 at 08-19-33 Frontend Mentor Social proof section.png]
 
 ### Links
 
