@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/chrisjay358/social-proof-section.git]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [[Add live site URL here](https://social-proofy.netlify.app/)]
 
 ## My process
 
