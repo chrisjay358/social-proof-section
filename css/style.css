@@ -32,7 +32,7 @@ body {
     url(../images/bg-pattern-bottom-desktop.svg) no-repeat;
   background-position: top left, right bottom;
   background-size: 75vh, 135vh;
-  height: 100vh;
+  min-height: 100vh;
   display: grid;
   place-items: center;
 }
