@@ -154,7 +154,7 @@ body {
   font-size: 1.4rem;
 }
 
-.product-review-quote {
+.product-review-quote p {
   color: var(--clr-light-grayish-magenta);
   line-height: 1.3;
 }
